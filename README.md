@@ -1,4 +1,4 @@
-# GeoMapping Visualiziaing Data Leaflet.git
+# GeoMapping Visualiziaing Data Leaflet
 
 Note: If you want to see this project, then click [here](https://plainjane20.github.io/GeoMapping_Visualiziaing_Data_Leaflet/).
 
